@@ -5,6 +5,8 @@ mqttwarn changelog
 
 in progress
 ===========
+- Fix ``ZabbixSender.py``. Thanks, Ben!
+- Add external plugin module loading. Thanks, @psyciknz!
 
 
 2020-06-06 0.16.2
